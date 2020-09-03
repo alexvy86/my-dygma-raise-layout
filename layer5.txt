@@ -385,10 +385,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17496,
+      "label": "4",
+      "extraLabel": "MOVETO"
     },
     {
       "keyCode": 65535,
@@ -475,10 +474,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17498,
+      "label": "6",
+      "extraLabel": "MOVETO"
     }
   ],
   "colormap": [
@@ -508,6 +506,7 @@
     1,
     1,
     1,
+    5,
     1,
     1,
     1,
@@ -542,8 +541,7 @@
     1,
     1,
     1,
-    1,
-    1,
+    5,
     1,
     1,
     1,
@@ -689,10 +687,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 255,
+      "g": 136,
+      "b": 32,
+      "rgb": "rgb(255, 136, 32)"
     },
     {
       "r": 0,

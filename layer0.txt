@@ -63,9 +63,8 @@
       "label": "="
     },
     {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
+      "keyCode": 61,
+      "label": "F4"
     },
     {
       "keyCode": 43,
@@ -134,9 +133,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 57,
-      "label": "CAPSLOCK",
-      "verbose": "Caps Lock"
+      "keyCode": 49222,
+      "label": "`",
+      "extraLabel": "CTRL/"
     },
     {
       "keyCode": 4,
@@ -273,9 +272,9 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 224,
-      "label": "LEFT CTRL",
-      "verbose": "Left Control"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 227,
@@ -288,8 +287,9 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
+      "keyCode": 225,
+      "label": "LEFT SHIFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 44,
@@ -301,30 +301,34 @@
       "verbose": "Disabled"
     },
     {
+      "keyCode": 227,
+      "label": "LEFT WIN",
+      "verbose": "Left Win"
+    },
+    {
+      "keyCode": 51514,
+      "label": "ENTER",
+      "extraLabel": "L#1/"
+    },
+    {
+      "keyCode": 228,
+      "label": "RIGHT CTRL",
+      "verbose": "Right Control"
+    },
+    {
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
+    },
+    {
       "keyCode": 42,
       "label": "BACKSPACE",
       "verbose": "Backspace"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
-    },
-    {
-      "keyCode": 17409,
-      "label": "1",
-      "extraLabel": "LockTo"
-    },
-    {
       "keyCode": 76,
       "label": "DEL"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
     },
     {
       "keyCode": 230,
@@ -343,81 +347,81 @@
       "extraLabel": "LEDEFF."
     },
     {
-      "keyCode": 228,
-      "label": "RIGHT CTRL",
-      "verbose": "Right Control"
+      "keyCode": 17493,
+      "label": "1",
+      "extraLabel": "MOVETO"
     }
   ],
   "colormap": [
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
+    3,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    1,
     4,
     4,
     4,
     4,
     4,
     1,
+    12,
+    12,
+    12,
+    12,
+    4,
     1,
-    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    11,
+    4,
+    4,
+    1,
+    12,
+    7,
     3,
-    5,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    3,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
     0,
     4,
     4,
-    1,
-    1,
-    7,
+    10,
+    10,
+    10,
+    10,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    12,
+    12,
+    12,
+    12,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    0,
+    4,
+    4,
     6,
+    6,
+    10,
+    8,
     4,
     4,
     4,
@@ -556,10 +560,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 255,
+      "g": 136,
+      "b": 32,
+      "rgb": "rgb(255, 136, 32)"
     },
     {
       "r": 0,

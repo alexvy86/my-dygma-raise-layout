@@ -303,8 +303,9 @@
       "label": "#55319"
     },
     {
-      "keyCode": 32,
-      "label": "3"
+      "keyCode": 17498,
+      "label": "6",
+      "extraLabel": "MOVETO"
     },
     {
       "keyCode": 33536,
@@ -369,9 +370,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 17500,
+      "label": "8",
+      "extraLabel": "MOVETO"
     }
   ],
   "colormap": [
@@ -401,6 +402,7 @@
     1,
     1,
     1,
+    5,
     1,
     1,
     1,
@@ -435,8 +437,7 @@
     1,
     1,
     1,
-    1,
-    1,
+    5,
     1,
     1,
     1,
@@ -582,10 +583,10 @@
       "rgb": "rgb(0, 0, 0)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 255,
+      "g": 136,
+      "b": 32,
+      "rgb": "rgb(255, 136, 32)"
     },
     {
       "r": 0,
