@@ -149,9 +149,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 224,
-      "label": "LEFT CTRL",
-      "verbose": "Left Control"
+      "keyCode": 481,
+      "label": "LEFT SHIFT",
+      "extraLabel": "C+"
     },
     {
       "keyCode": 0,
