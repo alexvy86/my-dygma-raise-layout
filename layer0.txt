@@ -63,8 +63,9 @@
       "label": "="
     },
     {
-      "keyCode": 61,
-      "label": "F4"
+      "keyCode": 49168,
+      "label": "7",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 43,
