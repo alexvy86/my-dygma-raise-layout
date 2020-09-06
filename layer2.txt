@@ -237,6 +237,34 @@
       "verbose": "Transparent"
     },
     {
+      "keyCode": 6224,
+      "label": "#6224"
+    },
+    {
+      "keyCode": 4176,
+      "label": "←",
+      "extraLabel": "G+"
+    },
+    {
+      "keyCode": 4175,
+      "label": "→",
+      "extraLabel": "G+"
+    },
+    {
+      "keyCode": 6223,
+      "label": "#6223"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
       "keyCode": 0,
       "label": "NO KEY",
       "verbose": "Disabled"
@@ -254,36 +282,6 @@
     {
       "keyCode": 43,
       "label": "TAB"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
     },
     {
       "keyCode": 0,
@@ -414,10 +412,10 @@
     15,
     4,
     15,
-    15,
-    15,
-    3,
-    3,
+    4,
+    4,
+    4,
+    4,
     15,
     5,
     4,
@@ -452,8 +450,8 @@
     0,
     11,
     11,
-    11,
-    11,
+    3,
+    3,
     5,
     0,
     0,
