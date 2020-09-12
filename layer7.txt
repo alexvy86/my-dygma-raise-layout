@@ -55,9 +55,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 2342,
+      "label": "9",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 0,
@@ -269,9 +269,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 2331,
+      "label": "X",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 256,
@@ -422,7 +422,7 @@
     11,
     11,
     11,
-    11,
+    3,
     5,
     11,
     11,
