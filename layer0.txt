@@ -312,9 +312,9 @@
       "extraLabel": "L#2/"
     },
     {
-      "keyCode": 228,
-      "label": "RIGHT CTRL",
-      "verbose": "Right Control"
+      "keyCode": 49270,
+      "label": "APP",
+      "extraLabel": "CTRL/"
     },
     {
       "keyCode": 226,

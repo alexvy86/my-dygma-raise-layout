@@ -283,9 +283,9 @@
       "verbose": "Left Win"
     },
     {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
+      "keyCode": 49738,
+      "label": "CAPSLOCK",
+      "extraLabel": "ALT/"
     },
     {
       "keyCode": 225,
@@ -312,15 +312,14 @@
       "extraLabel": "L#2/"
     },
     {
-      "keyCode": 228,
-      "label": "RIGHT CTRL",
-      "verbose": "Right Control"
+      "keyCode": 49270,
+      "label": "APP",
+      "extraLabel": "CTRL/"
     },
     {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 42,
