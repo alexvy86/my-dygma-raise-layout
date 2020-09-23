@@ -6,9 +6,28 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 30,
+      "label": "1"
+    },
+    {
+      "keyCode": 31,
+      "label": "2"
+    },
+    {
+      "keyCode": 32,
+      "label": "3"
+    },
+    {
+      "keyCode": 33,
+      "label": "4"
+    },
+    {
+      "keyCode": 34,
+      "label": "5"
+    },
+    {
+      "keyCode": 35,
+      "label": "6"
     },
     {
       "keyCode": 0,
@@ -21,49 +40,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 36,
+      "label": "7"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 37,
+      "label": "8"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 38,
+      "label": "9"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 39,
+      "label": "0"
     },
     {
       "keyCode": 0,
@@ -129,19 +119,19 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 20545,
+      "label": "LEFT",
+      "extraLabel": "M.Btn"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 20545,
+      "label": "LEFT",
+      "extraLabel": "M.Btn"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 20545,
+      "label": "LEFT",
+      "extraLabel": "M.Btn"
     },
     {
       "keyCode": 0,
@@ -372,19 +362,19 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 224,
+      "label": "LEFT CTRL",
+      "verbose": "Left Control"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 225,
+      "label": "LEFT SHIFT",
+      "verbose": "Left Shift"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 0,
@@ -404,12 +394,12 @@
   ],
   "colormap": [
     11,
-    11,
-    11,
-    11,
-    11,
-    11,
-    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
     11,
     11,
     11,
@@ -439,16 +429,16 @@
     1,
     1,
     11,
-    11,
-    11,
-    11,
-    11,
+    8,
+    8,
+    8,
+    8,
     1,
     11,
     11,
-    11,
-    11,
-    11,
+    4,
+    4,
+    4,
     11,
     11,
     1,
@@ -467,9 +457,9 @@
     5,
     1,
     1,
-    1,
-    1,
-    1,
+    6,
+    6,
+    6,
     1,
     1,
     1,
@@ -616,10 +606,10 @@
       "rgb": "rgb(255, 136, 32)"
     },
     {
-      "r": 0,
-      "g": 0,
-      "b": 0,
-      "rgb": "rgb(0, 0, 0)"
+      "r": 59,
+      "g": 236,
+      "b": 181,
+      "rgb": "rgb(59, 236, 181)"
     },
     {
       "r": 0,
