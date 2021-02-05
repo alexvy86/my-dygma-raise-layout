@@ -863,9 +863,9 @@
           "verbose": "Transparent"
         },
         {
-          "keyCode": 481,
-          "label": "LEFT SHIFT",
-          "extraLabel": "C+"
+          "keyCode": 224,
+          "label": "LEFT CTRL",
+          "verbose": "Left Control"
         },
         {
           "keyCode": 336,
@@ -968,33 +968,34 @@
           "label": "#6223"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
-        },
-        {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
-        },
-        {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
-        },
-        {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
-        },
-        {
-          "keyCode": 2091,
-          "label": "TAB",
+          "keyCode": 2274,
+          "label": "LEFT ALT",
           "extraLabel": "S+"
         },
         {
-          "keyCode": 43,
-          "label": "TAB"
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
+        },
+        {
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
+        },
+        {
+          "keyCode": 0,
+          "label": "NO KEY",
+          "verbose": "Disabled"
+        },
+        {
+          "keyCode": 2347,
+          "label": "TAB",
+          "extraLabel": "C+S+"
+        },
+        {
+          "keyCode": 299,
+          "label": "TAB",
+          "extraLabel": "C+"
         },
         {
           "keyCode": 0,
