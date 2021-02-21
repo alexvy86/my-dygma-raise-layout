@@ -276,9 +276,9 @@
           "verbose": "Right Shift"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 993,
+          "label": "LEFT SHIFT",
+          "extraLabel": "C+A+"
         },
         {
           "keyCode": 227,
