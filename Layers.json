@@ -1007,14 +1007,13 @@
           "extraLabel": "C+"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 6187,
+          "label": "#6187"
         },
         {
-          "keyCode": 0,
-          "label": "NO KEY",
-          "verbose": "Disabled"
+          "keyCode": 4139,
+          "label": "TAB",
+          "extraLabel": "G+"
         },
         {
           "keyCode": 82,
@@ -4791,8 +4790,8 @@
       12,
       2,
       0,
-      11,
-      11,
+      3,
+      3,
       3,
       3,
       12,
@@ -5892,10 +5891,10 @@
       "rgb": "rgb(59, 236, 181)"
     },
     {
-      "r": 208,
-      "g": 2,
-      "b": 27,
-      "rgb": "rgb(208, 2, 27)"
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
     },
     {
       "r": 163,
